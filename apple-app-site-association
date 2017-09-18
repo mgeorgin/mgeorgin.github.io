@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "NM5VGFVVG4.com.telstra.telstra24x7dev.phone.uat.ul",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
